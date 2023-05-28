@@ -426,9 +426,6 @@ a {
 }
 
 @media (max-width: 800px) {
-    .about video {
-        width: 200px;
-    }
 
     .nav img {
         /* position: absolute; */
@@ -575,7 +572,7 @@ button {
 }
 
 .about img {
-    width: 200px;
+    width: 350px;
 }
 
 #sample {
